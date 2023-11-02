@@ -13,5 +13,5 @@
 <h3>Add dependency to app `build.gradle`</h3>
 
        dependencies {
-           implementation 'cz.adaptech:tesseract4android:4.0.0'
+           implementation 'cz.adaptech:tesseract4android:4.5.0'
        }
